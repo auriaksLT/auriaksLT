@@ -3,4 +3,4 @@
 - 🌱 I’m currently Developing FULL-Stack knowledge on C# .NET Core and PHP Laravel frameworks
 - 📫 Reach me via auriaks@gmail.com
 
-***_Current Repsitories include tests and proof of concept applications_***
+***_Current Repositories include tests and proof of concept applications_***
